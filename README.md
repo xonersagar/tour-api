@@ -54,6 +54,11 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 server.port=8080
 ```
+
+
+https://github.com/user-attachments/assets/12dc66c0-d5a3-47ae-a89d-3f5565b0915c
+
+
 <img width="1440" height="900" alt="Screenshot 2025-08-11 at 1 39 20 PM" src="https://github.com/user-attachments/assets/74e42e73-eab0-44a3-a7e4-4b5a0f9c4a2a" />
 
 
