@@ -53,6 +53,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 server.port=8080
-<img width="1440" height="900" alt="Screenshot 2025-08-11 at 1 39 20 PM" src="https://github.com/user-attachments/assets/2130bdcd-39a4-401f-b99b-6b0dbf3e17c2" />
+<img width="1440" height="900" alt="Screenshot 2025-08-11 at 1 39 20 PM" src="https://github.com/user-attachments/assets/cf1450fc-166e-41d5-814b-7c1756e1c12c" />
+
 
 
